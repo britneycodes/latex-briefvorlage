@@ -1,9 +1,7 @@
-\ProvidesFile{sender.lco}[2017/11/01 Custom Sender Information (Jan Mattfeld)]
+\ProvidesFile{sender.lco}[2017/11/01 Custom Sender Information (Britney Nomayo)]
 %
-\newcommand{\mFirstname}{Max}
-\newcommand{\mLastname}{Mustermann}
-\newcommand{\mStreet}{Beispielweg~23\,a}
-\newcommand{\mPostalcode}{12345}
-\newcommand{\mCity}{Köln}
-\newcommand{\mPhone}{+49~123~5279143}
-\newcommand{\mEmail}{max@mustermann.de}
+\newcommand{\mFirstname}{Britney}
+\newcommand{\mLastname}{Nomayo}
+\newcommand{\mCity}{Leeds}
+\newcommand{\mPhone}{+447760812598}
+\newcommand{\mEmail}{sc16bn@leeds.ac.uk}
